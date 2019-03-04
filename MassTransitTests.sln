@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitTests532", "MassTransitTests532\MassTransitTests532.csproj", "{7C5D94F1-1783-4369-B977-904F5A608487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitTests3", "MassTransitTests3\MassTransitTests3.csproj", "{AE41ADAE-80E2-44C2-A454-5A8526E933E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C5D94F1-1783-4369-B977-904F5A608487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5D94F1-1783-4369-B977-904F5A608487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5D94F1-1783-4369-B977-904F5A608487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5D94F1-1783-4369-B977-904F5A608487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE41ADAE-80E2-44C2-A454-5A8526E933E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE41ADAE-80E2-44C2-A454-5A8526E933E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE41ADAE-80E2-44C2-A454-5A8526E933E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE41ADAE-80E2-44C2-A454-5A8526E933E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DCD377F-4B7D-4F16-B58E-A2C2A4F083C9}
+	EndGlobalSection
+EndGlobal
